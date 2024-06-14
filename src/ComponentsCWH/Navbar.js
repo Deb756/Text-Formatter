@@ -77,5 +77,6 @@ Navbar.propTypes = {
 // it will give a difault value to props is its not innitialized
 Navbar.defaultProps = {
   title: "Stranger404",
-  about: "About TextUtils Default",
+  // about: "About TextUtils Default",
+  about: "About",
 };
